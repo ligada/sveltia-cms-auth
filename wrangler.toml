@@ -1,4 +1,4 @@
-name = "sveltia-cms-auth"
+name = "francisco-cms-auth"
 main = "src/index.js"
 compatibility_date = "2025-01-01"
 [env.francisco]
